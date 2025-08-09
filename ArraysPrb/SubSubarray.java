@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 public class SubSubarray {
+
     public static List<List<Integer>> subarray(int num[],int k){
         List<List<Integer>> result=new ArrayList<>();
         
